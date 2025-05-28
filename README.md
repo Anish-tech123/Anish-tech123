@@ -1,5 +1,5 @@
-## Hi there 👋 I’m currently working at Amazon as Quality Assurance Engineer.
-
+## Hi there 👋 I’m currently working at Amazon as a Quality Assurance Engineer.
+I’m looking for a Software Engineering position where I can bring in other skills such as Quality Assurance Engineering/Design/Patent. 
 <!--
 **Anish-tech123/Anish-tech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
